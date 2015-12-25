@@ -1,0 +1,10 @@
+*~
+.ant_targets
+.DS_Store
+.bpmn
+*.iml
+.idea
+rebel.xml
+.settings
+/target
+*.log
